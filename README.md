@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @asuhopoljac
 - 👀 I’m interested in HTML, PYTHON
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning JAVA
